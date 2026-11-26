@@ -1,5 +1,5 @@
 # Context-Aware-Temprature-Analysis
-A framework based on geospatial foundation model for contextual urban thermal anomaly assessment using satellite imagery and AlphaEarth embeddings.
+A framework based on geospatial foundation model for contextual urban thermal anomaly assessment using satellite imagery and AlphaEarth embeddings. This code repository is for the paper: Geospatial Foundation Models for Context-Aware Surface Temperature Analysis in Hyper-Arid Cities
 Setup
 
 Python 3.10+ recommended. Create a Python virtual environment and install the dependencies:
