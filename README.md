@@ -41,7 +41,7 @@ Context-aware/
 │   └── plot_reference_mae.py
 └
 ```
-Research data and assumptions
+Research data and assumptions:-
 Four sampled Dubai neighborhoods: Downtown, Al Quoz, Dubai Marina and Mirdif.
 Eight summer months across 2024 and 2025 (June–September each year).
 Monthly clear-sky Landsat 8/9 Collection 2 L2ST LST, sampled at 100 m; no claim of 10 m thermal ground truth.
