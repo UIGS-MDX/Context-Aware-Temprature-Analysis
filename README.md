@@ -54,3 +54,7 @@ E4 rank correlation and top-decile agreement across 2024 and 2025.
 Attribution and data availability:-
 AlphaEarth Foundations Satellite Embedding is a Google/Google DeepMind-produced product. Satellite observations are retrieved using Google Earth Engine and retain their respective data provider licenses and attribution requirements. 
 
+## Acknowledgments
+
+This research is supported by Dubai Future Foundation under Dubai-RDI grant
+
