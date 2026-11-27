@@ -1,6 +1,5 @@
 """Define Earth Engine sources and cloud-filtered satellite preprocessors.
 
-Automatically refactored from the original HeatContext experiment notebook.
 Execution requires run.py, which supplies a shared experiment namespace.
 """
 
