@@ -1,6 +1,4 @@
 """E2: context clustering, leave-site-out references, and anomalies.
-
-Automatically refactored from the original HeatContext experiment notebook.
 Execution requires run.py, which supplies a shared experiment namespace.
 """
 
