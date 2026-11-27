@@ -1,6 +1,4 @@
 """E1: conventional vs AlphaEarth vs fused Random Forest predictors.
-
-Automatically refactored from the original HeatContext experiment notebook.
 Execution requires run.py, which supplies a shared experiment namespace.
 """
 
