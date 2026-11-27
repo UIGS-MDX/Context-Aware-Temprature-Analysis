@@ -1,6 +1,5 @@
 """Initialize Earth Engine, output paths, sampling parameters, and study windows.
 
-Automatically refactored from the original HeatContext experiment notebook.
 Execution requires run.py, which supplies a shared experiment namespace.
 """
 
