@@ -1,6 +1,5 @@
 """Generate sampling locations and extract satellite/static predictors.
 
-Automatically refactored from the original HeatContext experiment notebook.
 Execution requires run.py, which supplies a shared experiment namespace.
 """
 
