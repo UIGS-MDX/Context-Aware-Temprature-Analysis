@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run the modular HeatContext E1–E4 research pipeline.
+"""
 
 Each separate Python stage is executed in one shared namespace so the
 existing validated notebook computations, intermediate arrays, and helper
