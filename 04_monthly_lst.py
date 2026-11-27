@@ -1,6 +1,4 @@
 """Extract monthly clear-sky Landsat 2024–2025 surface temperatures.
-
-Automatically refactored from the original HeatContext experiment notebook.
 Execution requires run.py, which supplies a shared experiment namespace.
 """
 
