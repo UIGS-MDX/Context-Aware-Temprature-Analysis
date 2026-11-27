@@ -1,4 +1,4 @@
-"""E3: GeoHeat index, component ablations and weight sensitivity.
+"""E3:  component ablations and weight sensitivity.
 
 Automatically refactored from the original HeatContext experiment notebook.
 Execution requires run.py, which supplies a shared experiment namespace.
