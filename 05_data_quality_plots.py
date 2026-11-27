@@ -1,6 +1,5 @@
 """Generate preliminary real-data LST plots.
 
-Automatically refactored from the original HeatContext experiment notebook.
 Execution requires run.py, which supplies a shared experiment namespace.
 """
 
