@@ -1,6 +1,4 @@
 """E4: cross-year rank correlations and hotspot retention.
-
-Automatically refactored from the original HeatContext experiment notebook.
 Execution requires run.py, which supplies a shared experiment namespace.
 """
 
